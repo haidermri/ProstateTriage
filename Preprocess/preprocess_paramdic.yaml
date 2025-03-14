@@ -1,0 +1,13 @@
+coreg_dir: /home/user/Documents/coreg
+data_dir: /home/user/Documents/data
+pre_coreg_dir: /home/user/Documents/pre_coreg
+filetype: .nii.gz
+pixdim: !!python/tuple
+- 0.5
+- 0.5
+- 3.0
+spatial_size: !!python/tuple
+- 256
+- 256
+- 32
+spreadsheet: prostate_triage_pre.xlsx
